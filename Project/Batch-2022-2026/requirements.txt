@@ -1,8 +1,0 @@
-Flask
-Flask-SQLAlchemy
-Werkzeug
-reportlab
-scikit-learn
-joblib
-pandas
-psutil
